@@ -6,12 +6,12 @@ const seiso = {
     code: ["HTML5", "CSS3", "JavaScript", "Node.js"],
     askMeAbout: ["web dev", "web modules", "front-end", "design", "UI/UX", "music art"],
     technologies: {
-        front-end: {
+        frontEnd: {
             HTML: ["Haml"],
             CSS: ["Scss/Sass", "Less"],
             JavaScript: ["react.js"],
         },
-        back-end: ["node.js"],
+        backEnd: ["node.js"],
         CMS: ["WordPress"],
         databases: ["MongoDB", "MySQL"]
         
