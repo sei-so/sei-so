@@ -1,4 +1,4 @@
-# Howdy!
+# Howdy! :hibiscus:
 
 ```javascript
 const seiso = {
