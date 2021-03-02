@@ -9,15 +9,15 @@ const seiso = {
         frontEnd: {
             HTML: ["Haml"],
             CSS: ["Scss/Sass", "Less"],
-            JavaScript: ["react.js"],
+            JavaScript: ["React.js"],
         },
-        backEnd: ["node.js"],
+        backEnd: ["Node.js"],
         CMS: ["WordPress"],
         databases: ["MongoDB", "MySQL"]
         
     },
     styleGuide: ["AirBnB"],
-    currentFocus: "practice",
+    currentFocus: "practice!",
 };
 ```
 
