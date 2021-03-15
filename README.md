@@ -22,4 +22,3 @@ const seiso = {
 ```
 
 ![seiso's github stats](https://github-readme-stats.vercel.app/api?username=sei-so&theme=tokyonight&show_icons=true&include_all_commits=true)
-![seiso's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=seiso&theme=tokyonight)
