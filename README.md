@@ -9,7 +9,8 @@ const seiso = {
         frontEnd: {
             HTML: ["Haml"],
             CSS: ["Scss/Sass", "Less"],
-            Framewors: ["React.js"],
+            JavaScript: ["jQuery"],
+            Frameworks: ["React.js"],
         },
         backEnd: ["ASP.NET"],
         CMS: ["WordPress"],
