@@ -1,7 +1,7 @@
 # Howdy! :hibiscus:
 
 ```javascript
-const Iskander = {
+const seiso = {
     pronouns: "he" | "him",
     code: ["HTML5", "CSS3", "JavaScript", "Node.js"],
     askMeAbout: ["web-dev", "prototyping", "front-end", "design", "UI/UX", "music"],
@@ -9,7 +9,7 @@ const Iskander = {
         frontEnd: {
             HTML: ["Haml"],
             CSS: ["Scss/Sass", "Less"],
-            JavaScript: ["React.js"],
+            Framewors: ["React.js"],
         },
         backEnd: ["ASP.NET"],
         CMS: ["WordPress"],
@@ -21,4 +21,4 @@ const Iskander = {
 };
 ```
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=sei-so&theme=tokyonight&show_icons=true&include_all_commits=true)
+![seiso's github stats](https://github-readme-stats.vercel.app/api?username=sei-so&theme=tokyonight&show_icons=true&include_all_commits=true)
